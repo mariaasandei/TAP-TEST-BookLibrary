@@ -1,0 +1,4 @@
+C:\Users\40743\source\repos\BookLibrary\BookLibrary\obj\Debug\net10.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40743\source\repos\BookLibrary\BookLibrary\obj\Debug\net10.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\40743\source\repos\BookLibrary\BookLibrary\obj\Debug\net10.0\BookLibrary.AssemblyInfo.cs
+C:\Users\40743\source\repos\BookLibrary\BookLibrary\obj\Debug\net10.0\BookLibrary.csproj.CoreCompileInputs.cache
